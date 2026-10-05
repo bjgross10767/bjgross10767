@@ -1,8 +1,8 @@
 # Brandon Gross
 
-I got my start as an analyst, defining business processes. From there I moved into development, then architecture, then project management. Over 26 years that has meant working every stage of the software lifecycle: requirements, design, build, test, deployment and support.
+I got my start as an analyst, defining business processes, and soon moved into development. Over time the roles stacked up rather than replaced each other. On large data projects I was often the analyst, architect, lead developer and project manager at once, carrying the work from requirements through design, build, test, deployment and support.
 
-The specialty stayed the same through every role:
+Across 26 years the specialty has stayed the same:
 
 - **Integrations,** internal and B2B
 - **Application development**
