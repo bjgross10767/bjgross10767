@@ -1,6 +1,6 @@
 # Brandon Gross
 
-I got my start as an analyst, defining business processes, and soon moved into development. Over time the roles stacked up rather than replaced each other. On large data projects I was often the analyst, architect, lead developer and project manager at once, carrying the work from requirements through design, build, test, deployment and support.
+I got my start as an analyst, defining business processes, and soon moved into development. Over time the roles stacked up rather than replaced each other. On large data projects I was often the analyst, architect, lead developer and project manager at once, carrying the work from requirements through design, build, test, deployment and support. Holding every role gave me a high degree of control and let me make sure each project delivered the business value it was meant to.
 
 Across 26 years the specialty has stayed the same:
 
